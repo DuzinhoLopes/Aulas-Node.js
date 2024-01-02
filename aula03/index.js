@@ -1,0 +1,1 @@
+//aula utilizada para introduzir alguns comandos mais utilizados do npm, como por exemplo instalar dependencias, remover, atualizar versoes, etc.
